@@ -2,6 +2,8 @@
 
 A Hubot script that display the blog.bouzuya.net posts.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140817/20140817170105.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-blog-bouzuya-net.git
