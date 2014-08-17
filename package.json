@@ -1,6 +1,6 @@
 {
   "name": "hubot-blog-bouzuya-net",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display the blog.bouzuya.net posts",
   "main": "index.coffee",
   "scripts": {
